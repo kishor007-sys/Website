@@ -1,0 +1,27 @@
+
+
+ 
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cormorant+Garamond:wght@300&display=swap');
+body{
+    margin-top: auto;
+    padding: auto;
+    box-sizing: border-box;
+    width: 100%;
+    font-family:'Cormorant Garamond','sans-serif';
+}
+
+
+.bold{
+    font-size: 23px;
+
+}
+li{
+    padding: 5px;
+}
+
+.submit{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background: rgb(240, 254, 255);
+    text-transform: uppercase;
+}
